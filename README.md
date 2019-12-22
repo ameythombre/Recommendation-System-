@@ -15,7 +15,7 @@
 * **matplotlib**
 
 ## Dependencies Installation
-`pip install sklearn nltk scipy numpy pandas seaborn marplotlib`
+`pip install sklearn nltk scipy numpy pandas seaborn matplotlib`
 
 
 
